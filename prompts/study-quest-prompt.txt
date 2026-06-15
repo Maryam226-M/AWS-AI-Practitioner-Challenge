@@ -1,0 +1,18 @@
+Widget Name: Your Study Quest
+Widget Type: Text Generation
+
+Prompt:
+Create a gamified, day-by-day study plan for a student preparing for an exam.
+
+Topics to cover: {{Topics to Study}}
+Days available: {{Days Until Exam}}
+
+For each day, present it as a "Level" in a quest (Level 1, Level 2, etc.):
+- Level title (creative, motivating name related to the day's topic)
+- Topic(s) to focus on and recommended time
+- One specific study technique or tip
+- A short "Reward Unlocked" message at the end of the day, framing the completed work as building real skills, discipline, and self-respect (avoid generic praise — make it feel earned and specific to that day's effort)
+
+End the plan with a "Final Boss" section for exam day, summarizing key reminders and a confidence-boosting message.
+
+Keep the tone encouraging but not cheesy — like a coach who respects the student's effort.
