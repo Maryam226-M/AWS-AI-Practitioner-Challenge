@@ -1,0 +1,7 @@
+Widget Name: Your Progress Map
+Widget Type: Chart (Bar Chart)
+
+Prompt:
+Based on these topics: {{Topics to Study}} and {{Days Until Exam}} days available, calculate how many hours should be allocated to each topic so the total adds up to a realistic study schedule.
+
+Output the data as a bar chart, with each topic as a label and the allocated hours as the value. Label the chart "XP Required per Topic" to match a leveling/quest theme.
